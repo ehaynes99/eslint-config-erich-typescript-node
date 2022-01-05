@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-erich-typescript-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eric's typescript eslint config for node.js",
   "repository": "https://github.com/ehaynes99/eslint-config-erich-typescript-node",
   "homepage": "https://github.com/ehaynes99/eslint-config-erich-typescript-node",
