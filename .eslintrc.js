@@ -19,6 +19,7 @@ module.exports = {
     'quotes': ['error', 'single', { avoidEscape: true }],
     '@typescript-eslint/no-non-null-assertion': 'off',
     '@typescript-eslint/no-empty-function': 'off',
+    'no-constant-condition': ['error', { checkLoops: false }],
     '@typescript-eslint/no-unused-vars': [
       'error',
       {
